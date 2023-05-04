@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briandesarmo&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![briandesarmo's Stats](https://github-readme-stats.vercel.app/api?username=briandesarmo&theme=default&show_icons=true&hide_border=true&count_private=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briandesarmo&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![briandesarmo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=briandesarmo&theme=default&hide_border=true)
 
+![briandesarmo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briandesarmo&theme=default&show_icons=true&hide_border=true&layout=compact)
